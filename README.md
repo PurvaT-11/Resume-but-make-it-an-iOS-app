@@ -1,6 +1,6 @@
 # Purva's Resume App (SwiftUI)
 
-This is a personal resume app built with **SwiftUI** showcasing my skills, education, work experience, projects, and contact details in a clean, interactive format. The app allows for quick navigation to my contact links, LinkedIn, GitHub, and more.
+This is my personal resume app built with **SwiftUI** showcasing my skills, education, work experience, projects, and contact details in a clean, interactive format. The app allows for quick navigation to my contact links, LinkedIn, GitHub, and more.
 
 ## Features:
 - **Education**: Displays details about my academic background.
@@ -16,7 +16,7 @@ This is a personal resume app built with **SwiftUI** showcasing my skills, educa
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Purvas-Resume-App.git
+   git clone [(https://github.com/PurvaT-11/Resume-but-make-it-an-iOS-app.git)]
 2. Open the project in Xcode.
 
 3. Run the app on the iOS Simulator or a connected device.
